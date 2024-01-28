@@ -1,8 +1,29 @@
-## 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucylimasantos) 
+# Oi! meu nome é Lucy! ❤️
+<a href="https://www.linkedin.com/in/lucylimasantos/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://lucylima.github.io">
+  <img src="https://img.shields.io/badge/Meus%20Projetos-Visitar-ff69b4" alt="Meus projetos" />
+</a>
+<hr />
+- Desenvolvedora Full Stack 👩‍💻
+- Tecnologias que eu domino:
+    - JavaScript 🌐
+    - HTML 📄
+    - CSS 🎨
+    - TypeScript 🚀
+    - Node.js 🌟
+    - Figma 🎨
+    - Adobe Photoshop 📸
+- Amo:
+    - Arte 🎨
+    - Música 🎵
+    - Jogos 🎮
+<img align="right" src="https://i.postimg.cc/mggT5RbF/7d25c79f-7af5-4456-bd04-e2ad42b6e663-removebg-preview.png">
 
-# 💻
-![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-# 📊
-![](https://github-readme-stats.vercel.app/api?username=lucylima&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucylima&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Tech stack
+![HTML](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
+![CSS](https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png)
+![JavaScript](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)
+![Typescript](https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png)
+![React](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png)
