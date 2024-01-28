@@ -6,17 +6,18 @@
 <a href="https://lucylima.github.io">
   <img src="https://img.shields.io/badge/Meus%20Projetos-Visitar-ff69b4" alt="Meus projetos" />
 </a>
-### Desenvolvedora Full Stack 👩‍💻
-* Tecnologias que eu domino:
-  * JavaScript 🌐
-  * HTML 📄
-  * CSS 🎨
-  * TypeScript 🚀
-  * Node.js 🌟
-  * Figma 🎨
-  * Adobe Photoshop 📸
-* Amo:
-  * Arte 🎨
-  * Música 🎵
-  * Jogos 🎮
+  
+## Desenvolvedora Full Stack 👩‍💻
+- Tecnologias que eu domino:
+- JavaScript 🌐
+- HTML 📄
+- CSS 🎨
+- TypeScript 🚀
+- Node.js 🌟
+- Figma 🎨
+- Adobe Photoshop 📸
+- Amo:
+  - Arte 🎨
+  - Música 🎵
+  - Jogos 🎮
   
