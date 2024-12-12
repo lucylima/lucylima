@@ -1,0 +1,79 @@
+{
+  // lucylima vscode settings
+  "editor.fontFamily": " CaskaydiaCove Nerd Font Mono, consolas, monospace",
+  "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+  "terminal.integrated.cursorStyle": "block",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.tabs.defaultIcon": "terminal-bash",
+  "terminal.integrated.tabs.defaultColor": "terminal.ansiMagenta",
+  "terminal.integrated.tabs.title": "${process}",
+  "apc.electron": {
+    "frame": false,
+    "titleBarStyle": "hiddenInset"
+  },
+  "apc.stylesheet": {
+    ".editor-actions": "display: none",
+    ".pane-header": "padding: 10px 0px",
+    ".pane-body": "padding: 0px",
+    ".breadcrumbs-below-tabs": "display: none",
+    ".sidebar > div.composite.title > div.title-actions > div > div > ul > li:nth-child(4) > div > div > a": "display: none",
+    ".sidebar > div.composite.title > div.title-label > h2": "display: none",
+    ".panel > div.composite.title.has-composite-bar > div.composite-bar-container > div > div": "display:none",
+    ".monaco-sash:before": "background: none",
+    ".monaco-workbench .part.panel.bottom .composite.title": "border-style: none",
+    ".panel > div.composite.title.has-composite-bar > div.title-actions > div > div > ul > li:nth-child(5) > div > div": "display: none"
+  },
+  "workbench.activityBar.location": "hidden",
+  "apc.font.family": "MesloLGM Nerd Font",
+  "window.titleBarStyle": "native",
+  "window.customTitleBarVisibility": "never",
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": false,
+  "workbench.iconTheme": "symbols",
+  "codesandbox.currentWorkspace": "fc652b4e-271f-4ed7-bddb-99535c6d660a",
+  "remote.SSH.remotePlatform": {
+    "branch.d3tr5q.lucylima.pessoas-enderecos-api.main.csb": "linux"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 14.5,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "symbols.hidesExplorerArrows": true,
+  "editor.cursorStyle": "block",
+  "workbench.sideBar.location": "left",
+  "update.mode": "manual",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "files.autoSave": "afterDelay",
+  "terminal.explorerKind": "external",
+  "terminal.integrated.defaultLocation": "editor",
+  "terminal.external.windowsExec": "C:\\Users\\plugify\\AppData\\Local\\Programs\\Hyper\\Hyper.exe",
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "workbench.colorTheme": "Nebula"
+}
