@@ -1,23 +1,19 @@
-<img align="right" src="https://i.postimg.cc/mggT5RbF/7d25c79f-7af5-4456-bd04-e2ad42b6e663-removebg-preview.png" width="350px"><br />
-<h1 align="left">Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é Lucy! ❤️<h1>
+# 🏳️‍⚧️Lucy Lima Santos
+Sou uma desenvolvedora full stack que vive pelos detalhes e pela inovação. Adoro explorar novas perspectivas para criar soluções que vão além do funcional, unindo técnica e criatividade para transformar ideias em experiências únicas. Meu compromisso com o aprimoramento constante do senso estético me impulsiona a buscar a beleza em cada linha de código e design. Cada projeto é uma oportunidade de reinventar o que já existe e de fazer a diferença com autenticidade.
+
+## 😸 Sobre mim
+
+- Cursando Sistemas de Informação na Universidade Estadual da Bahia (UNEB)
+- Alumni Programadores do Amanhã
+- Faço música como hobby
+
+## 💻 Linguagens e Tecnologias
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,sass,nodejs,express,postgres,mongo,mysql,git)
+
+
+## 📫 Contato
+
 <a href="https://www.linkedin.com/in/lucylimasantos/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://lucylima.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Meus%20Projetos-Visitar-ff69b4" alt="Meus projetos" />
-</a>
-  
-## Desenvolvedora Full-Stack 👩‍💻
-- Tecnologias que eu domino:
-  - JavaScript 🌐
-  - HTML 📄
-  - CSS 🎨
-  - TypeScript 🚀
-  - Node.js 🌟
-  - Figma 🎨
-  - Adobe Photoshop 📸
-- Amo:
-  - Arte 🎨
-  - Música 🎵
-  - Jogos 🎮
-  
